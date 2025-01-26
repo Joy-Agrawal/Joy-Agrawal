@@ -2,7 +2,6 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Joy-Agrawal&color=0e75b6)
 - 🌱 I’m currently learning Data structure and algorithms , Web development.
-- 🤔 I’m looking for help in Data Science.
 - 💬 Ask me about anything.
 - 📫 How to reach me: Joyagrawal2019@gmail.com
 - ⚡ Fun fact: I Think I am Good.
